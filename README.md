@@ -19,10 +19,11 @@
 ### 🌱 I’m currently learning:
 
 - React
-- Typescript
 - HarperDB
 - Socket.IO
 - Anything else that seems interesting to test out!
+
+- Currently working on building a MERN stack chat-room application: [Chat-Room](https://github.com/gibbo3433/chat-room)
 
 ***
 
