@@ -30,7 +30,7 @@
 
 - Coming out of education into a new career 
 - The Magic, the Gathering modern meta-game
-- Anything that your want to chat about
+- Anything that you want to chat about!
 
 ***
 
