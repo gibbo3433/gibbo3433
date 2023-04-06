@@ -18,6 +18,7 @@
 
 ### 🌱 I’m currently learning:
 
+- React
 - Typescript
 - HarperDB
 - Socket.IO
