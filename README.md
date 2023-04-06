@@ -10,9 +10,20 @@
 
 ### 🔭 Projects:
 
-- [What's For Dinner?](https://github.com/gibbo3433/What-s-For-Dinner-) : This app allows the user to type in some ingredients they have around the house and then shows them the top 6 recipies that include those items ready to be made into a dinner!
+# [What's For Dinner?](https://github.com/gibbo3433/What-s-For-Dinner-) : This app allows the user to type in some ingredients they have around the house and then shows them the top 6 recipies that include those items ready to be made into a dinner!
+Responsibilities:
+ - Front-end Javascript 
+ - API calls
+ - Presentaton
 
-- [ORACODE](https://github.com/gibbo3433/coding-blog) : This is a coding blog where users can sign-up and login, create, edit and delete posts and comments. Come and take a look and a drop your own post!
+# [ORACODE](https://github.com/gibbo3433/coding-blog) : This is a coding blog where users can sign-up and login, create, edit and delete posts and comments. Come and take a look and a drop your own post!
+Responsibilities:
+ - Controllers (Express)
+ - OOP
+ - Database (MySQL, Sequelize)
+ - Front-end Javascript
+ - Seeding
+ - Utils (Date formatting) 
 
 ***
 
@@ -23,7 +34,10 @@
 - Socket.IO
 - Anything else that seems interesting to test out!
 
-- Currently working on building a MERN stack chat-room application: [Chat-Room](https://github.com/gibbo3433/chat-room)
+# Currently working on building a MERN stack chat-room application: [Chat-Room](https://github.com/gibbo3433/chat-room)
+Responsibilities:
+ - HarperDB (Mix of SQL & NoSQL)
+ - Socket.IO
 
 ***
 
